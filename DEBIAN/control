@@ -2,7 +2,7 @@ Package: com.dylan.1977
 Name: 1977 
 Version: 1.0
 Architecture: iphoneos-arm
-Description: A retro theme with 1977 rainbows icons
+Description: A retro theme with 1977 rainbows icons.
 Author: Dylan
 Maintainer: Dylan
 Section: Themes
